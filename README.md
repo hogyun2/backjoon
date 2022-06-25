@@ -1,9 +1,7 @@
-# backjoon
-### this is my backjoon study repository
 # Backjoon
 #### this is my backjoon study repository
 ---
-***
+*
 
 ---
 + Problem
