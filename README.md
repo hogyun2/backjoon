@@ -1,2 +1,2 @@
 # backjoon
-## this is my backjoon study repository
+### this is my backjoon study repository
